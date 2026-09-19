@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="LocalPatternOrganizer.App/LocalPatternOrganizer.App.csproj" />
+  <Project Path="LocalPatternOrganizer.Domain.Tests/LocalPatternOrganizer.Domain.Tests.csproj" />
+  <Project Path="LocalPatternOrganizer.Domain/LocalPatternOrganizer.Domain.csproj" />
+  <Project Path="LocalPatternOrganizer.Infrastructure.Tests/LocalPatternOrganizer.Infrastructure.Tests.csproj" />
+  <Project Path="LocalPatternOrganizer.Infrastructure/LocalPatternOrganizer.Infrastructure.csproj" />
+</Solution>
